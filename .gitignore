@@ -6,12 +6,13 @@
 /debug/
 /journeymap/
 /saves/
-/resourcepacks/
-/shaderpacks/
-/texturepacks/
 /server-resource-packs/
+/XaeroWorldMap/
+/XaeroWaypoints/
+/lightspeed-cache/
 
 # User-specific config files
+/essential/
 options.txt
 usercache.json
 usernamecache.json
@@ -21,13 +22,22 @@ whitelist.json
 ops.json
 banned-ips.json
 banned-players.json
+knownkeys.txt
+realms_persistence.json
+reauth.toml
 
 # World backups
 /backups/
+/craftpresence/
+/defaultconfigs/
 
 # Performance data
 /hs_err_*.log
 /replay_*.log
+*.hprof
+/debug.log
+/logs/debug*.log
+/timingserror*.txt
 
 # Mod-specific temporary data
 /.fabric/
@@ -35,12 +45,31 @@ banned-players.json
 /.curseclient
 *.dll
 /essential/
+/kubejs/exported/
+/kubejs/probe/
+/local/ftbchunks/
+/local/ftbbackups/
+/schematics/
+/.architectury-transformer/
+/crash_assistant/
+/modernfix/
+/patchouli_books/
+/patchouli_data.json
 
 # Runtime generated
 *.log
 *.jar.log.gz
 *.jfr
 *.class
+/reports/
+/config/**/backup/
+/.cache/
+/memory_repo/
+/profilekeys/
+/.bobby/
+/minecraftinstance.json
+/usercache.json
+/usernamecache.json
 
 # IDE files
 /.idea/
@@ -75,3 +104,7 @@ $RECYCLE.BIN/
 /_releases/
 /buildtools/
 /modpack-uploader-config.json
+/instance.json
+/instance.cfg
+/mmc-pack.json
+/logs/
