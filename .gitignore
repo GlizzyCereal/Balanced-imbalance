@@ -1,0 +1,77 @@
+# Minecraft-specific files
+/logs/
+/crash-reports/
+/.mixin.out/
+/screenshots/
+/debug/
+/journeymap/
+/saves/
+/resourcepacks/
+/shaderpacks/
+/texturepacks/
+/server-resource-packs/
+
+# User-specific config files
+options.txt
+usercache.json
+usernamecache.json
+/servers.dat
+/servers.dat_old
+whitelist.json
+ops.json
+banned-ips.json
+banned-players.json
+
+# World backups
+/backups/
+
+# Performance data
+/hs_err_*.log
+/replay_*.log
+
+# Mod-specific temporary data
+/.fabric/
+/.mixin/
+/.curseclient
+*.dll
+/essential/
+
+# Runtime generated
+*.log
+*.jar.log.gz
+*.jfr
+*.class
+
+# IDE files
+/.idea/
+/.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# OS-specific files
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+## Linux
+*~
+.directory
+.Trash-*
+
+# Pack development
+/_uploads/
+/_releases/
+/buildtools/
+/modpack-uploader-config.json
