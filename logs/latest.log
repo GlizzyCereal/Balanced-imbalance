@@ -1,0 +1,376 @@
+[23:32:22] [main/INFO]: ModLauncher running: args [--username, CactusGod_, --version, forge-47.4.0, --gameDir, C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance, --assetsDir, C:\Users\USER\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, 7c61a4d794e14465a034d79151bdda2d, --accessToken, ????????, --clientId, d93056-89486e-ead890-de346a-7100da, --xuid, 2535415628012734, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[23:32:22] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[23:32:23] [main/WARN]: Configuration file C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\config\fml.toml is not correct. Correcting
+[23:32:23] [main/INFO]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[23:32:23] [main/INFO]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[23:32:23] [main/INFO]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[23:32:23] [main/INFO]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[23:32:35] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[23:32:35] [main/INFO]: Trying GL version 4.6
+[23:32:35] [main/INFO]: If this message is the only thing at the bottom of your log before a crash, you probably have a driver issue.
+
+Possible solutions:
+A) Make sure Minecraft is set to prefer high performance graphics in the OS and/or driver control panel
+B) Check for driver updates on the graphics brand's website
+C) Try reinstalling your graphics drivers
+D) If still not working after trying all of the above, ask for further help on the Forge forums or Discord
+
+You can safely ignore this message if the game starts up successfully.
+[23:32:35] [main/INFO]: Requested GL version 4.6 got version 4.6
+[23:32:35] [main/INFO]: Redirector CoreMod initialized successfully!
+[23:32:35] [main/INFO]: Updating stage1 to version 9 from union:/C:/Users/USER/curseforge/minecraft/Instances/Balanced%20imbalance/mods/essential_1-3-5-12_forge_1-20-1.jar%23464!/gg/essential/loader/stage0/stage1.jar
+[23:32:35] [main/INFO]: Updating Essential Loader (stage2) version 1.6.3 (285f951adc7537f49ae3ef9fc0d2fd3e) from union:/C:/Users/USER/curseforge/minecraft/Instances/Balanced%20imbalance/mods/essential_1-3-5-12_forge_1-20-1.jar%23464!/essential-loader-stage2-modlauncher9-1.6.3.jar
+[23:32:35] [pool-2-thread-1/INFO]: GL info: AMD Radeon RX 6750 XT GL version 4.6.0 Core Profile Context 23.11.1.231020, ATI Technologies Inc.
+[23:32:36] [main/INFO]: Starting Essential Loader (stage2) version 1.6.3 (285f951adc7537f49ae3ef9fc0d2fd3e) [stable]
+[23:32:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/USER/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[23:32:36] [main/INFO]: Downloading 0KB of updates...
+[23:32:36] [main/INFO]: 1KB / 0KB (-102400%)
+[23:32:38] [main/INFO]: Found mod file [1.20.1] SecurityCraft v1.9.12.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file additional_recipes-1.4.0-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file AdvancementPlaques-1.20.1-forge-1.6.9.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file ae2wtlib-15.2.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file AI-Improvements-1.20-0.5.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file alexsmobs-1.22.9.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file alltheleaks-0.1.3-beta+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file almanac-1.20.x-forge-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file AmbientSounds_FORGE_v6.1.9_mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file amendments-1.20-1.2.19.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:38] [main/INFO]: Found mod file Applied-Botanics-forge-1.5.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Applied-Mekanistics-1.4.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file appliedenergistics2-forge-15.3.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file AppliedFlux-1.20-1.2.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Aquaculture-1.20.1-2.5.5.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file aquaculturedelight-1.1.1-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file avaritialite-forge-1.20.1-1.10.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file BadOptimizations-2.2.2-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.27-all.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file BetterAdvancements-Forge-1.20.1-0.4.2.25.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file betterchunkloading-1.20.1-5.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file bettercombat-forge-1.8.6+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file BetterF3-7.0.2-Forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file betterfpsdist-1.20.1-6.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file BiomesOPlenty-1.20.1-18.0.0.592.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file blue_skies-1.20.1-1.3.31.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file bobberdetector-0.1.9-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.2.13.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Botania-1.20.1-448-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file botarium-forge-1.20.1-2.3.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file bwncr-forge-1.20.1-3.17.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file caelus-forge-3.2.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file carryon-forge-1.20.1-2.1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file cc-tweaked-1.20.1-forge-1.113.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file chat_heads-0.13.17-forge-1.20.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file chloride-FORGE-mc1.20.1-v1.6.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file chunksending-1.20.1-2.8.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file cleanswing-1.20-1.8.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file clickadv-1.20.1-3.8.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file clientcrafting-1.20.1-1.8.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Clumps-forge-1.20.1-12.0.0.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file CodeChickenLib-1.20.1-4.4.0.516-universal.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file cofh_core-1.20.1-11.0.2.56.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file comforts-forge-6.4.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file configured-forge-1.20.1-2.2.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file connectedglass-1.1.13-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file connectivity-1.20.1-7.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file cookingforblockheads-forge-1.20.1-16.0.13.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file copycats-3.0.0+mc.1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file coroutil-forge-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file corpse-forge-1.20.1-1.0.20.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file cosmeticarmorreworked-1.20.1-v1a.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file craftingtweaks-forge-1.20.1-18.2.5.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file CraftTweaker-forge-1.20.1-14.0.57.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file crashexploitfixer-forge-1.1.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Create Encased-1.20.1-1.7.1-fix2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create-1.20.1-6.0.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create-confectionery1.20.1_v1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create-new-age-forge-1.20.1-1.1.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create-stuff-additions1.20.1_v2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.d.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_connected-1.0.1-mc1.20.1-all.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_enchantment_industry-1.3.2-for-create-6.0.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_factory-0.4b-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_jetpack-forge-4.4.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_jetpack_curios-1.2.0-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_mecanical_extruder-1.20.1-1.6.9-6.0.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_oxidized-0.1.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_power_loader-2.0.0-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Create_Questing-FORGE-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_recycle_1.0.2_forge_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_sabers-1.20.1-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_ultimate_factory-1.9.0-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file create_waystones_recipes-1.0.1.b.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file createaddition-1.20.1-1.3.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file createbigcannons-5.8.2-mc.1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file createdeco-2.0.3-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file createdieselgenerators-1.20.1-1.3.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file createframed-1.20.1-1.6.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file creategoggles-1.20.1-6.0.0-[FORGE].jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file createmetallurgy-0.0.7-C6-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file createoreexcavation-1.20-1.6.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file createsifter-1.20.1-1.8.4-6.0.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file CreateTweaker-forge-1.20.1-4.0.15.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file CreativeCore_FORGE_v2.12.32_mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file creeperoverhaul-3.0.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file cristellib-1.1.6-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Crystal-Clear-2.1-Beta-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ctjl-1.20.1-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file CTM-1.20.1-1.1.10.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Cucumber-1.20.1-7.0.13.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file cupboard-1.20.1-2.7.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file curios-forge-5.14.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file curious_armor_stands-1.20-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file curiouslanterns-1.20.1-1.3.6.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Cyclic-1.20.1-1.13.6.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file DarkUtilities-Forge-1.20.1-17.0.5.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file decorative_blocks-forge-1.20.1-4.1.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file deeperdarker-forge-1.20.1-1.3.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file despawn_tweaker-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file dummmmmmy-1.20-2.0.6.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Dungeon Crawl-1.20.1-2.3.15.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file DungeonsArise-1.20.x-2.1.58-release.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file dynamicvillage-v0.4-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file embeddium-0.3.31+mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file EnderStorage-1.20.1-2.11.0.188-universal.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file entity_model_features_forge_1.20.1-2.4.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file entity_texture_features_forge_1.20.1-6.2.9.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file entityculling-forge-1.7.4-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file EquipmentCompare-1.20.1-forge-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file extendedgears-2.1.1-1.20.1-0.5.1.f-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file fancymenu_forge_3.5.0_MC_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file farmersrespite-1.20.1-2.1.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file farsight-1.20.1-3.7.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file fast-ip-ping-v1.0.5-mc1.20.4-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file fastasyncworldsave-1.20.1-2.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file fastboot-1.20.x-1.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file fasterblockplacement-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file FastFurnace-1.20.1-8.0.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file FastItemFrames-v20.1.1-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file FastLeafDecay-32.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Fastload-Reforged-mc1.20.1-3.4.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file fastpaintings-1.20-1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file fastportals-1.0.3-forge 1.20.x.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file FastSuite-1.20.1-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file FastWorkbench-1.20.1-8.0.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ferritecore-6.0.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file flib-1.20.1-0.0.15.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file FluxNetworks-1.20.1-7.2.1.15.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file foregoing_tweaker-1.20.1-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file framework-forge-1.20.1-0.7.12.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ftb-essentials-forge-2001.2.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ftb-library-forge-2001.2.9.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ftb-quests-forge-2001.4.13.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ftb-teams-forge-2001.3.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ftb-ultimine-forge-2001.1.5.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file fusion-1.2.7b-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file fzzy_config-0.6.9+1.20.1+forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.7.1.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file GlitchCore-forge-1.20.1-0.0.1.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Glodium-1.20-1.5-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file goblintraders-forge-1.20.1-1.9.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file gpumemleakfix-1.20.1-1.8.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file handcrafted-forge-1.20.1-3.0.6.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Highlighter-1.20.1-forge-1.1.9.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file iceandfire-2.1.13-1.20.1-beta-5.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Iceberg-1.20.1-forge-1.1.25.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ImmediatelyFast-Forge-1.5.0+1.20.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ImmersiveEngineering-1.20.1-10.2.0-183.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file incontrol-1.20-9.2.11.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file industrial-foregoing-1.20.1-3.5.19.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file interiors-0.5.6+forge-mc1.20.1-local.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file inventoryessentials-forge-1.20.1-8.2.7.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ironchest-1.20.1-14.4.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ironfurnaces-1.20.1-4.1.6.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Jade-1.20.1-Forge-11.13.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file jamlib-forge-1.3.5+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.106.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file jeimultiblocks-1.20.1-1.0.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file justenoughbreeding-forge-1.20-1.20.1-1.5.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file JustEnoughMekanismMultiblocks-1.20.1-4.10.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file JustEnoughProfessions-forge-1.20.1-3.0.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file JustEnoughResources-1.20.1-1.4.0.247.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file justzoom_forge_2.1.1_MC_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file konkrete_forge_1.8.0_MC_1.20-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file kotlinforforge-4.11.0-all.jar of type LIBRARY with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file kubejs-create-forge-2001.3.0-build.8.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file kubejs-forge-2001.6.5-build.16.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file L_Enders_Cataclysm-2.64.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ldlib-forge-1.20.1-1.0.39.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file LeavesBeGone-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file letmedespawn-1.20.x-forge-1.5.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file lionfishapi-2.4-Fix.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file lmft-1.0.4+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file loadingbackgrounds-forge-1.20.2-1.8.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file lootintegrations-1.20.1-4.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Mantle-1.20.1-1.11.44.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file mcw-fences-1.2.0-1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file mcw-furniture-3.3.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file mcw-paths-1.1.0forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file mcw-roofs-2.3.1-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file mcw-trapdoors-1.1.4-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file mcw-windows-2.3.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Mekanism-1.20.1-10.4.15.75.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file MekanismGenerators-1.20.1-10.4.15.75.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file MekanismTools-1.20.1-10.4.15.75.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file melody_forge_1.0.3_MC_1.20.1-1.20.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file memorysettings-1.20.1-5.9.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file mob_grinding_utils-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file mobtimizations-forge-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file modernfix-forge-5.21.0+mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file moonlight-1.20-2.13.83-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file mowziesmobs-1.7.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file MysticalAgradditions-1.20.1-7.0.9.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file MysticalAgriculture-1.20.1-7.0.18.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file NaturesCompass-1.20.1-1.11.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Neat-1.20.1-41-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file netherportalfix-forge-1.20-13.0.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file nethersdelight-1.20.1-4.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file NoChatReports-FORGE-1.20.1-v2.2.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file noisium-forge-2.3.0+mc1.20-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file notenoughanimations-forge-1.9.3-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file oceansdelight-1.0.2-1.20.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file OctoLib-FORGE-0.5.0.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file oculus-mc1.20.1-1.8.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file origins-forge-1.20.1-1.10.0.9-all.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file packetfixer-forge-2.0.0-1.19-to-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file particle_core-0.2.6+1.20.1+forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Patchouli-1.20.1-84.1-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file PickUpNotifier-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file PigPen-Forge-1.20.1-15.0.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Placebo-1.20.1-8.6.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file polymorph-forge-0.49.10+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file PuzzlesLib-v8.1.32-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Quark-4.0-462.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file radium-mc1.20.1-0.12.4+git.26c9d8e.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file rechiseled-1.1.6-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file rechiseledcreate-1.0.2a-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file recipeessentials-1.20.1-4.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file refurbished_furniture-forge-1.20.1-1.0.12.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file repurposed_structures-7.1.15+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file resourcefullib-forge-1.20.1-2.1.29.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.10.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file rightclickharvest-forge-4.5.3+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file rubidium-mc1.20.1-0.7.1a.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Runelic-Forge-1.20.1-18.0.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Searchables-forge-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file SereneSeasons-forge-1.20.1-9.1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file servercore-forge-1.5.2+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Shrink-1.20.1-1.4.5.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file simplemagnets-1.1.12-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file simplyswords-forge-1.56.0-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file skinlayers3d-forge-1.7.5-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file sliceanddice-forge-3.4.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file smoothchunk-1.20.1-4.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file sodiumdynamiclights-forge-1.0.10-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file sodiumextras-forge-1.0.7-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file sodiumoptionsapi-forge-1.0.10-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.23.14.1233.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file sophisticatedcore-1.20.1-1.2.51.966.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file sound-physics-remastered-forge-1.20.1-1.4.13.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file spark-1.10.53-forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file starlight-1.1.2+forge.1cda73c.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Steam_Rails-1.6.7+forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file StorageDrawers-1.20.1-12.9.13.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Structory_1.20.x_v1.3.5.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file structure_gel-1.20.1-2.16.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file structureessentials-1.20.1-4.7.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file structures_tweaker-1.20.1-Forge-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file supermartijn642configlib-1.1.8-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file supermartijn642corelib-1.1.18-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file supplementaries-1.20-3.1.30.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file tcompat-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file TConstruct-1.20.1-3.9.2.37.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.10.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file tfmg-0.9.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file thermal_cultivation-1.20.1-11.0.1.24.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file thermal_dynamics-1.20.1-11.0.1.23.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file thermal_expansion-1.20.1-11.0.1.29.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file thermal_foundation-1.20.1-11.0.6.70.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file thermal_innovation-1.20.1-11.0.1.23.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file thermal_integration-1.20.1-11.0.1.27.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file thermal_locomotion-1.20.1-11.0.1.19.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file TinkersLevellingAddon-1.20.1-1.4.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Tips-Forge-1.20.1-12.1.8.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file titanium-1.20.1-3.8.32.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file ToastControl-1.20.1-8.0.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file toofast-1.20-0.4.3.5.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file torchmaster-20.1.9.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Towns-and-Towers-1.12-Fabric+Forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file trading_floor-forge-1.20.1-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file trashcans-1.0.18b-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file trashslot-forge-1.20-15.1.2.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file twilightforest-1.20.1-4.3.2508-universal.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file VisualWorkbench-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file watut-forge-1.20.1-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file waystones-forge-1.20.1-14.1.11.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Xaeros_Minimap_25.2.0_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file XaerosWorldMap_1.39.4_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsApi-1.20-Forge-4.0.6.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsBetterDesertTemples-1.20-Forge-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsBetterDungeons-1.20-Forge-4.0.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsBetterEndIsland-1.20-Forge-2.0.6.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsBetterJungleTemples-1.20-Forge-2.0.5.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsBetterMineshafts-1.20-Forge-4.0.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsBetterStrongholds-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsBetterWitchHuts-1.20-Forge-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file YungsBridges-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/INFO]: Found mod file Zeta-1.0-30.jar of type MOD with provider {mods folder locator at C:\Users\USER\curseforge\minecraft\Instances\Balanced imbalance\mods}
+[23:32:39] [main/WARN]: Mod file C:\Users\USER\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.0\fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[23:32:39] [main/WARN]: Mod file C:\Users\USER\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.0\javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[23:32:39] [main/WARN]: Mod file C:\Users\USER\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.0\lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[23:32:39] [main/WARN]: Mod file C:\Users\USER\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.0\mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[23:32:39] [main/INFO]: Found mod file fmlcore-1.20.1-47.4.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70228253
+[23:32:39] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70228253
+[23:32:39] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70228253
+[23:32:39] [main/INFO]: Found mod file mclanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70228253
+[23:32:39] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70228253
+[23:32:39] [main/INFO]: Found mod file forge-1.20.1-47.4.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@70228253
+[23:32:39] [main/ERROR]: Found duplicate mods:
+	Mod ID: 'rubidium' from mod files: rubidium-mc1.20.1-0.7.1a.jar, embeddium-0.3.31+mc1.20.1.jar
+[23:32:39] [main/ERROR]: Failed to build unique mod list after mod discovery.
+net.minecraftforge.fml.loading.EarlyLoadingException: Duplicate mods found
+	at net.minecraftforge.fml.loading.UniqueModListBuilder.buildUniqueList(UniqueModListBuilder.java:87) ~[fmlloader-1.20.1-47.4.0.jar:1.0]
+	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.discoverMods(ModDiscoverer.java:125) ~[fmlloader-1.20.1-47.4.0.jar:?]
+	at net.minecraftforge.fml.loading.FMLLoader.beginModScan(FMLLoader.java:173) ~[fmlloader-1.20.1-47.4.0.jar:1.0]
+	at net.minecraftforge.fml.loading.FMLServiceProvider.beginScanning(FMLServiceProvider.java:86) ~[fmlloader-1.20.1-47.4.0.jar:1.0]
+	at cpw.mods.modlauncher.TransformationServiceDecorator.runScan(TransformationServiceDecorator.java:112) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$runScanningTransformationServices$8(TransformationServicesHandler.java:100) ~[modlauncher-10.0.9.jar:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source) ~[?:?]
+	at java.util.HashMap$ValueSpliterator.forEachRemaining(Unknown Source) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluateToArrayNode(Unknown Source) ~[?:?]
+	at java.util.stream.ReferencePipeline.toArray(Unknown Source) ~[?:?]
+	at java.util.stream.ReferencePipeline.toArray(Unknown Source) ~[?:?]
+	at java.util.stream.ReferencePipeline.toList(Unknown Source) ~[?:?]
+	at cpw.mods.modlauncher.TransformationServicesHandler.runScanningTransformationServices(TransformationServicesHandler.java:102) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:55) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:88) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[23:32:39] [main/ERROR]: Mod Discovery failed. Skipping dependency discovery.
+[23:32:39] [main/INFO]: Found Kotlin-containing mod Jar[union:/C:/Users/USER/curseforge/minecraft/Instances/Balanced%20imbalance/essential/libraries/forge_1.20.1/kotlin-for-forge-4.3.0-slim.jar%23475!/], checking whether we need to upgrade it..
+[23:32:39] [main/INFO]: Found outdated Kotlin core libs 0.0.0 (we ship 1.9.23)
+[23:32:39] [main/INFO]: Found outdated Kotlin Coroutines libs 0.0.0 (we ship 1.8.0)
+[23:32:39] [main/INFO]: Found outdated Kotlin Serialization libs 0.0.0 (we ship 1.6.3)
+[23:32:39] [main/INFO]: Generating jar with updated Kotlin at C:\Users\USER\AppData\Local\Temp\kff-updated-kotlin-17756230478611448423-4.3.0-slim.jar
+[23:32:39] [main/ERROR]: Missing language javafml version [33,) wanted by Essential (forge_1.20.1).jar
