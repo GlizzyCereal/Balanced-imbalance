@@ -1,5 +1,6 @@
 # Minecraft-specific files
 /logs/
+/logs/latest.log
 /crash-reports/
 /.mixin.out/
 /screenshots/
@@ -55,6 +56,18 @@ reauth.toml
 /modernfix/
 /patchouli_books/
 /patchouli_data.json
+/xaero/
+/XaeroWaypoints/
+/essential/
+
+# Xaero's Mods data (consolidated)
+/xaero/
+/XaeroWaypoints/
+/XaeroWorldMap/
+/XaeroWaypoints_BACKUP*/
+/XaeroWorldMap_BACKUP*/
+/.xaero-minimap.lock
+/.xaero-worldmap.lock
 
 # Additional mod temp folders
 /.bobby/

@@ -16,7 +16,7 @@ ServerEvents.recipes(event => {
     // Generic pattern matching for any deploying/casing recipe except andesite
     event.remove({type: 'create:deploying', output: 'create:brass_casing'})
     event.remove({type: 'create:deploying', output: 'create:copper_casing'})
-    event.remove({type: 'create:item_application', output: /create:(?!andesite).*_casing/})
+    event.remove({type: 'create:item_application', output: /create:(?!andesite|railway).*_casing/})
     
     // --------- ADD TINKERS' CONSTRUCT BASIN CASTING RECIPES ---------
     

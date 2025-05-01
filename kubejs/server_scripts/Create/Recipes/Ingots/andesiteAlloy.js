@@ -8,9 +8,9 @@ const itemsToRemove = [
   const recipeIdsToRemove = [
     'create:crafting/materials/andesite_alloy',
     'create:crafting/materials/andesite_alloy_from_zinc',
-    'thermal:machines/smelter/smelter_alloy_andesite', 
+    'thermal:machines/smelter/andesite_alloy',
+    'thermal:compat/create/smelter_create_andesite_alloy', 
     'thermal:compat/create/smelter_create_andesite_alloy' 
-    // Add more recipe IDs here
   ]
   
   // Recipe removal event
@@ -27,10 +27,7 @@ const itemsToRemove = [
       console.log(`Removed all recipes outputting: ${item}`)
     })
     
-    // Special handling for modded machine recipes that might not be caught by output
-    // Add more as needed
-    // Currently, this is just a placeholder for demonstration
-    // event.remove({type: 'create:mixing', output: item})
+
     
     console.log('Recipe removal complete!')
   })

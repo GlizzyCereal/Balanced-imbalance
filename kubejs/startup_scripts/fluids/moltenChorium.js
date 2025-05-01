@@ -1,14 +1,15 @@
-// Register the molten chorium fluid - MUST BE IN STARTUP SCRIPTS, NOT SERVER SCRIPTS
-
 StartupEvents.registry('fluid', event => {
   event.create('molten_chorium')
     .displayName('Molten Chorium')
-    .bucketColor(0xE752FF) // Purple color
+    .bucketColor(0xE752FF)
     .thickTexture(0xE752FF)
-    .viscosity(8000)
+    // Greatly increased viscosity (was 8000)
+    .viscosity(35000)
     .temperature(1500)
-    .density(2000)
+    // Slightly increased density
+    .density(3000)
     .luminosity(8)
-    .stillTexture('tconstruct:block/fluid/molten/still')
-    .flowingTexture('tconstruct:block/fluid/molten/flowing')
+    // Textures remain the same:
+    .stillTexture('kubejs:fluid/molten_chorium/still')
+    .flowingTexture('kubejs:fluid/molten_chorium/flowing')
 })
