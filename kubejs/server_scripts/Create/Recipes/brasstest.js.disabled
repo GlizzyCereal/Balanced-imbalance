@@ -1,0 +1,69 @@
+ServerEvents.recipes(event => {
+    console.log('=== BRASS RECIPE TESTING ===')
+    
+    // Get all recipes as an array we can iterate through
+    const allRecipes = global.getRecipeArrayFromManager(event)
+    
+    // Log all recipe types
+    console.log('Available recipe types:')
+    const recipeTypes = new Set()
+    allRecipes.forEach(recipe => {
+      if (recipe && recipe.type) {
+        recipeTypes.add(recipe.type.toString())
+      }
+    })
+    // Fix: Replace spread operator with Array.from
+    console.log(Array.from(recipeTypes).join(', '))
+    
+    // Find all brass recipes
+    const brassRecipes = allRecipes.filter(recipe => {
+      // Check recipe ID for brass
+      const id = recipe.id ? recipe.id.toString() : ''
+      if (id.includes('brass')) return true
+      
+      // Check outputs for brass
+      if (recipe.outputItems) {
+        for (const item of recipe.outputItems) {
+          if (item && item.id && item.id.toString().includes('brass')) return true
+        }
+      }
+      
+      return false
+    })
+    
+    console.log(`Found a total of ${brassRecipes.length} brass recipes`)
+    brassRecipes.forEach(recipe => {
+      console.log(`Brass recipe: ${recipe.id}, type: ${recipe.type}`)
+    })
+  })
+  
+  // Helper function to get recipes as an array
+  global.getRecipeArrayFromManager = (event) => {
+    // Return all recipes as an array we can work with
+    const recipes = []
+    try {
+      // This approach works in newer KubeJS versions
+      if (event.server && event.server.getRecipes) {
+        // Fix: Don't use spread operator here either
+        const recipeList = event.server.getRecipes()
+        for (let i = 0; i < recipeList.length; i++) {
+          recipes.push(recipeList[i])
+        }
+        return recipes
+      }
+      
+      // Alternative approach for older versions
+      if (event.recipes && event.recipes.all) {
+        // Fix: Don't use spread operator here either
+        const recipeList = event.recipes.all
+        for (let i = 0; i < recipeList.length; i++) {
+          recipes.push(recipeList[i])
+        }
+        return recipes
+      }
+    } catch (e) {
+      console.error('Error getting recipes: ' + e.message)
+    }
+    
+    return recipes
+  }

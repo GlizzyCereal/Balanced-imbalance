@@ -56,6 +56,17 @@ reauth.toml
 /patchouli_books/
 /patchouli_data.json
 
+# Additional mod temp folders
+/.bobby/
+/imgui.ini
+/airlock_cache/
+/.ldlib/
+/oculus.ini
+/.oculus/
+/.patchouli_edit_lock.json
+/benchmark_results/
+/perfectspawn.json
+
 # Runtime generated
 *.log
 *.jar.log.gz
@@ -70,6 +81,7 @@ reauth.toml
 /minecraftinstance.json
 /usercache.json
 /usernamecache.json
+/mods.toml
 
 # IDE files
 /.idea/

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: Balanced_imbalance
+created: 2025-05-01T12:59:38+03:00
