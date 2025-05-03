@@ -5,7 +5,7 @@ debugInfo = true
 #Set this to false to disable the references in the flower tooltips. (You monster D:)
 references = true
 #Set this to false to disable Botania's splashes in the main menu.
-splashes = true
+splashes = false
 
 [rendering]
 	#Set this to false to disable the use of shaders for some of the mod's renders. (Requires game restart)

@@ -846,6 +846,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\incontrol\\areas.json",
+        "isSelected": true
+      },
+      {
         "path": "config\\incontrol\\breakevents.json",
         "isSelected": true
       },
@@ -963,6 +967,10 @@
       },
       {
         "path": "config\\jei\\world\\local\\test",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\local\\test\\bookmarks.ini",
         "isSelected": true
       },
       {
@@ -3562,6 +3570,14 @@
         "isSelected": false
       },
       {
+        "path": "crash-reports\\crash-2025-05-02_18.39.05-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-05-02_18.39.22-client.txt",
+        "isSelected": false
+      },
+      {
         "path": "defaultconfigs",
         "isSelected": false
       },
@@ -4191,6 +4207,10 @@
       },
       {
         "path": "essential\\cosmetic-cache\\1\\1\\a77a1f23812ca7ec8f20e7ea28c930ebdb4f7e0721440cd139b2295c1b4f0b",
+        "isSelected": false
+      },
+      {
+        "path": "essential\\cosmetic-cache\\1\\1\\a814e09854906b9b66d71d2006047e",
         "isSelected": false
       },
       {
@@ -10670,6 +10690,10 @@
         "isSelected": false
       },
       {
+        "path": "essential\\ice-logs",
+        "isSelected": false
+      },
+      {
         "path": "essential\\image-cache",
         "isSelected": false
       },
@@ -10830,11 +10854,39 @@
         "isSelected": false
       },
       {
+        "path": "kubejs\\assets\\kubejs\\textures\\fluid",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\fluid\\molten_chorium",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\fluid\\molten_chorium\\flowing.png",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\fluid\\molten_chorium\\still.png",
+        "isSelected": false
+      },
+      {
         "path": "kubejs\\assets\\kubejs\\textures\\item",
         "isSelected": false
       },
       {
         "path": "kubejs\\assets\\kubejs\\textures\\item\\example_item.png",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ponderjs_generated",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ponderjs_generated\\lang",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ponderjs_generated\\lang\\en_us.json",
         "isSelected": false
       },
       {
@@ -10866,11 +10918,159 @@
         "isSelected": false
       },
       {
-        "path": "kubejs\\server_scripts\\example.js",
+        "path": "kubejs\\server_scripts\\Create",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\Basin.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\Chute.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\ContraptionControls.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\Depot.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\Disenchanter.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\EmptyBlazeBurner.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\EncasedFan.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\FoundryMixer.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\MechanicalBeltGrinder.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\MechanicalMixer.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\MechanicalPress.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\MechanicalPump.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\Millstone.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\Printer.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\Schematicannon.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\SmartChute.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Crafters\\WeightedEjector.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Ingots",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Ingots\\andesiteAlloy.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Ingots\\brassIngot.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Ingots\\brasstest.js.disabled",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Recipes\\Ingots\\casings.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\Utils",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Create\\World",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Minecraft",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Minecraft\\Blocks",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Minecraft\\Blocks\\Andesite.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Sophisticated Backpacks",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Sophisticated Backpacks\\Copper.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Sophisticated Backpacks\\Diamond.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Sophisticated Backpacks\\Gold.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Sophisticated Backpacks\\Iron.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\Sophisticated Backpacks\\Netherite.js",
         "isSelected": false
       },
       {
         "path": "kubejs\\startup_scripts",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\startup_scripts\\fluids",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\startup_scripts\\fluids\\moltenChorium.js",
         "isSelected": false
       },
       {
@@ -11242,6 +11442,10 @@
         "isSelected": false
       },
       {
+        "path": "local\\crash_assistant\\mod_data_cache\\createutilities-0.3.1+1.20.1.mod_data.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\crash_assistant\\mod_data_cache\\create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.d.mod_data.json",
         "isSelected": false
       },
@@ -11359,6 +11563,10 @@
       },
       {
         "path": "local\\crash_assistant\\mod_data_cache\\despawn_tweaker-1.20.1-1.0.0.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache\\dg_js-1.20.1-1.2.1.mod_data.json",
         "isSelected": false
       },
       {
@@ -11650,6 +11858,14 @@
         "isSelected": false
       },
       {
+        "path": "local\\crash_assistant\\mod_data_cache\\kubejs-thermal-2001.1.10-build.2.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache\\kubejsadditions-forge-4.3.4.mod_data.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\crash_assistant\\mod_data_cache\\ldlib-forge-1.20.1-1.0.39.mod_data.json",
         "isSelected": false
       },
@@ -11847,6 +12063,10 @@
       },
       {
         "path": "local\\crash_assistant\\mod_data_cache\\polymorph-forge-0.49.10+1.20.1.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache\\ponderjs-1.20.1-2.0.4.mod_data.json",
         "isSelected": false
       },
       {
@@ -12186,27 +12406,27 @@
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\33436_1746091604.info",
+        "path": "local\\crash_assistant\\9504_1746200428.info",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\33436_1746091604_app.jar",
+        "path": "local\\crash_assistant\\9504_1746200428_app.jar",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\joined_world_pid33436.tmp",
+        "path": "local\\crash_assistant\\loading_error_fml_pid9504.tmp",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\loading_error_fml_pid33436.tmp",
+        "path": "local\\crash_assistant\\normal_stop_pid9504.tmp",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\renderer_pid33436.tmp",
+        "path": "local\\crash_assistant\\renderer_pid9504.tmp",
         "isSelected": false
       },
       {
-        "path": "local\\crash_assistant\\successful_launch_pid33436.tmp",
+        "path": "local\\crash_assistant\\successful_launch_pid9504.tmp",
         "isSelected": false
       },
       {
@@ -12294,6 +12514,62 @@
         "isSelected": false
       },
       {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_12-27-14.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_16-12-55.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_17-11-49.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_18-00-36.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_18-30-39.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_18-34-36.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_19-23-55.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_19-26-45.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_19-31-47.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_19-37-15.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_19-39-38.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_20-56-11.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-01_20-58-50.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2025-05-02_18-37-57.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\kubejs",
         "isSelected": false
       },
@@ -12370,7 +12646,7 @@
         "isSelected": false
       },
       {
-        "path": "logs\\2025-05-01-7.log.gz",
+        "path": "logs\\2025-05-02-1.log.gz",
         "isSelected": false
       },
       {
@@ -12407,6 +12683,10 @@
       },
       {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_bandit_village_bandit_village_street_2_a022039109.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_base_3_1fb1f3a011.nbt",
         "isSelected": false
       },
       {
@@ -12766,11 +13046,23 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\structory_harvest_chapel_graveyard1_975a3b5cbd.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\structory_harvest_chapel_graveyard2_ca73f7bbc1.nbt",
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\structory_harvest_manor2_spider_spawner_b92522f1e2.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\structory_harvest_manor2_which_witch_is_which_352ed1de20.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\structory_harvest_manor_large1_84c64893dd.nbt",
         "isSelected": false
       },
       {
@@ -12786,6 +13078,10 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\structory_outcast_villager_desert_rock_house1_c5b6416286.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\structory_outcast_villager_farm_ruin_main_2a433cc8a3.nbt",
         "isSelected": false
       },
@@ -12794,7 +13090,23 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\structory_ruin_northern_ruins_castle1_d6f83c568a.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\structory_ruin_northern_ruins_circle_tall_88a7a1210e.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\structory_ruin_northern_ruins_house3_cede5f78d3.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\structory_ruin_northern_ruins_mound1_ccb239572c.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\structory_ruin_swamp_fountain1_8a061738c1.nbt",
         "isSelected": false
       },
       {
@@ -12806,6 +13118,14 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\structory_ruin_swamp_frog_statue_small_9fcc0d3ba1.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\structory_ruin_swamp_pool3_9cd8c78fe7.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\structory_ruin_swamp_pool_small1_87d50ce987.nbt",
         "isSelected": false
       },
@@ -12814,7 +13134,23 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\structory_ruin_swamp_ruin2_3e17a0e166.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\structory_ruin_taiga_surface_arch1_c8d4edbb5a.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\structory_ruin_taiga_surface_ruin1_589fb81c88.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\structory_ruin_taiga_surface_tower1_5f8cd286c9.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\structory_ruin_taiga_surface_tower2_c8dfad228f.nbt",
         "isSelected": false
       },
       {
@@ -13162,6 +13498,10 @@
         "isSelected": true
       },
       {
+        "path": "mods\\createutilities-0.3.1+1.20.1.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.d.jar",
         "isSelected": true
       },
@@ -13279,6 +13619,10 @@
       },
       {
         "path": "mods\\despawn_tweaker-1.20.1-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\dg_js-1.20.1-1.2.1.jar",
         "isSelected": true
       },
       {
@@ -13574,6 +13918,14 @@
         "isSelected": true
       },
       {
+        "path": "mods\\kubejs-thermal-2001.1.10-build.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejsadditions-forge-4.3.4.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\ldlib-forge-1.20.1-1.0.39.jar",
         "isSelected": true
       },
@@ -13767,6 +14119,10 @@
       },
       {
         "path": "mods\\polymorph-forge-0.49.10+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ponderjs-1.20.1-2.0.4.jar",
         "isSelected": true
       },
       {
@@ -14210,6 +14566,14 @@
         "isSelected": false
       },
       {
+        "path": "xaero\\minimap\\test\\dim%0",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\minimap\\test\\dim%0\\waypoints.txt",
+        "isSelected": false
+      },
+      {
         "path": "xaero\\minimap\\test\\config.txt",
         "isSelected": false
       },
@@ -14219,6 +14583,34 @@
       },
       {
         "path": "xaero\\world-map\\test",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\blue_skies$everbright",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\blue_skies$everbright\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\blue_skies$everbright\\caves",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\blue_skies$everbright\\caves\\4",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\blue_skies$everbright\\caves\\4\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\blue_skies$everbright\\.lock",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\blue_skies$everbright\\dimension_config.txt",
         "isSelected": false
       },
       {
@@ -14250,11 +14642,167 @@
         "isSelected": false
       },
       {
-        "path": "xaero\\world-map\\test\\null\\cache_1\\0_0.xwmc",
+        "path": "xaero\\world-map\\test\\null\\cache_1\\0_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\cache_1\\0_1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\cache_1\\1_-1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\cache_1\\1_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\cache_1\\1_1.xwmc",
         "isSelected": false
       },
       {
         "path": "xaero\\world-map\\test\\null\\caves",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-1\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-1\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-1\\cache_1\\0_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-1\\cache_1\\1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-1\\cache_1\\1_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-2",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-2\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-2\\cache_1\\0_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-2\\cache_1\\1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\-2\\cache_1\\1_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\0",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\0\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\0\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\0\\cache_1\\0_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\0\\cache_1\\1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\0\\cache_1\\1_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\1\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\1\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\1\\cache_1\\0_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\1\\cache_1\\1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\1\\cache_1\\1_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\2",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\2\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\2\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\2\\cache_1\\0_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\2\\cache_1\\1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\2\\cache_1\\1_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\3",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\3\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\3\\cache_1\\0_-1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\3\\cache_1\\0_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\3\\cache_1\\1_-1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\3\\cache_1\\1_0.xwmc.outdated",
         "isSelected": false
       },
       {
@@ -14266,19 +14814,51 @@
         "isSelected": false
       },
       {
-        "path": "xaero\\world-map\\test\\null\\caves\\4\\cache_1\\-1_-1.xwmc",
+        "path": "xaero\\world-map\\test\\null\\caves\\4\\cache_1\\-1_-1.xwmc.outdated",
         "isSelected": false
       },
       {
-        "path": "xaero\\world-map\\test\\null\\caves\\4\\cache_1\\-1_0.xwmc",
+        "path": "xaero\\world-map\\test\\null\\caves\\4\\cache_1\\-1_0.xwmc.outdated",
         "isSelected": false
       },
       {
-        "path": "xaero\\world-map\\test\\null\\caves\\4\\cache_1\\0_-1.xwmc",
+        "path": "xaero\\world-map\\test\\null\\caves\\4\\cache_1\\0_-1.xwmc.outdated",
         "isSelected": false
       },
       {
-        "path": "xaero\\world-map\\test\\null\\caves\\4\\cache_1\\0_0.xwmc",
+        "path": "xaero\\world-map\\test\\null\\caves\\4\\cache_1\\0_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\4\\cache_1\\1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\4\\cache_1\\1_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\5",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\5\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\5\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\5\\cache_1\\0_0.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\5\\cache_1\\1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\test\\null\\caves\\5\\cache_1\\1_0.xwmc.outdated",
         "isSelected": false
       },
       {
@@ -14291,6 +14871,30 @@
       },
       {
         "path": "xaero\\world-map\\test\\server_config.txt",
+        "isSelected": false
+      },
+      {
+        "path": "XaeroWaypoints_BACKUP240807",
+        "isSelected": false
+      },
+      {
+        "path": "XaeroWaypoints_BACKUP240807\\backup",
+        "isSelected": false
+      },
+      {
+        "path": "XaeroWaypoints_BACKUP240807\\test",
+        "isSelected": false
+      },
+      {
+        "path": "XaeroWaypoints_BACKUP240807\\test\\dim%0",
+        "isSelected": false
+      },
+      {
+        "path": "XaeroWaypoints_BACKUP240807\\test\\dim%0\\waypoints.txt",
+        "isSelected": false
+      },
+      {
+        "path": "XaeroWaypoints_BACKUP240807\\test\\config.txt",
         "isSelected": false
       },
       {
@@ -14318,6 +14922,10 @@
         "isSelected": false
       },
       {
+        "path": "ops.json",
+        "isSelected": false
+      },
+      {
         "path": "options.txt",
         "isSelected": false
       },
@@ -14334,11 +14942,23 @@
         "isSelected": false
       },
       {
+        "path": "TrashSlotSaveState.json",
+        "isSelected": false
+      },
+      {
+        "path": "user-prefs.json",
+        "isSelected": false
+      },
+      {
         "path": "usercache.json",
         "isSelected": false
       },
       {
         "path": "usernamecache.json",
+        "isSelected": false
+      },
+      {
+        "path": "whitelist.json",
         "isSelected": false
       }
     ],
